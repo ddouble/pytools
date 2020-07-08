@@ -1,6 +1,6 @@
 # pytools
 
-some tool writed in python
+some tool written in python
 
 ## iprange2network.py
 
